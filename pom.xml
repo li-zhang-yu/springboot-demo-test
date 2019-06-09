@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.github</groupId>
     <artifactId>springboot-demo-test</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0</version>
     <name>springboot-demo-test</name>
     <description>Demo project for Spring Boot</description>
 
@@ -49,7 +49,11 @@
                     </execution>
                 </executions>
             </plugin>
+
         </plugins>
     </build>
+
+
+
 
 </project>
